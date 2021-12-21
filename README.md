@@ -6,8 +6,6 @@ A new Flutter project.
 
 This project is done using Flutter Framework.
 
-A few resources to get you started if this is your first Flutter project:
-
 to run the application excute this command in terminal "flutter run"
 
 For help getting started with Flutter, view our
