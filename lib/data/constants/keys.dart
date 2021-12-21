@@ -1,0 +1,2 @@
+const hmacSecretKey =
+    '2d986da332898fe051b8b08797dbfdc923c3d7c181d95121182ae0a164d24b83';
